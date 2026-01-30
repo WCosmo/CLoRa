@@ -2,7 +2,7 @@
 
 O CLORA (Cosmic Long Range Ecosystem) é uma plataforma de IoT (Internet das Coisas) de alto impacto, desenvolvida por Wilson Cosmo. O projeto foca em expandir as capacidades da tecnologia LoRa, integrando telemetria abrangente com formatos customizáveis e suporte a tecnologias modernas, como Large Language Models (LLMs).
 
-##🚀 Objetivos do Projeto
+## 🚀 Objetivos do Projeto
 
 O ecossistema foi idealizado para resolver desafios críticos em redes LPWAN (Low Power Wide Area Network):
 
