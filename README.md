@@ -10,7 +10,7 @@ O ecossistema foi idealizado para resolver desafios críticos em redes LPWAN (Lo
 - Escalabilidade de Custo: Manter a competitividade do LoRa em cenários de sensoriamento, equilibrando custo e demanda.
 - Adaptabilidade IoT: Levar a conectividade para cenários com infraestrutura básica precária ou inexistente.
 
-##🛠️ Características Principais
+## 🛠️ Características Principais
 
 1. Plataforma de Custo Escalável
 
@@ -29,7 +29,7 @@ O ecossistema foi idealizado para resolver desafios críticos em redes LPWAN (Lo
 - Visualização Nativa: Plataforma própria para análise de dados.
 - Suporte a IA: Interface amigável para operação com modelos complexos (LLMs).
 
-##✉️ Contato
+## ✉️ Contato
 
 Para mais informações ou colaborações:
 
